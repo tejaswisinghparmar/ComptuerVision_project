@@ -38,4 +38,3 @@ python hog_human_detection.py
 - [imutils Documentation](https://pypi.org/project/imutils/)
 
 ---
-**Author:** Your Name
